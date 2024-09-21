@@ -1,3 +1,5 @@
+// works as of Oct. 2024
+
 function leaveSkypeConversations() {
     const conversations = document.querySelectorAll('[role="listitem"]');
     function rightClickAndLeave(conversation, index) {
